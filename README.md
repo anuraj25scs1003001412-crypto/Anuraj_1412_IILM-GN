@@ -109,7 +109,3 @@ Simply re-run `colllect-faces.py` with a new name, then re-run `train_model.py`.
 - Confidence scores in LBPH are distances — **lower is better**.
 
 ---
-
-## 📄 License
-
-This project is open source and free to use for educational purposes.
